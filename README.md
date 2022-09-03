@@ -4,10 +4,10 @@ Learning Project for GNNs
 
 # Getting Started
 
-This Project include the installation and usage of `Neo4j` and `torch_geometric`
+This Project include the installation and usage of 
 
-# Installation
+- Neo4j
+- PyG(torch_geometric)
+- Pytorch tips
+- (some pkgs to add)
 
-## Ubuntu
-
-## Windows
