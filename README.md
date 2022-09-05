@@ -11,3 +11,14 @@ This Project include the installation and usage of
 - Pytorch tips
 - (some pkgs to add)
 
+# History
+> 2022-09-06
+- Add pyG_MsgPass
+  - [doc](https://github.com/Uroboros0313/GraphUtils/blob/master/PyG/1.2.pyG_MsgPass.md)
+  - [code](https://github.com/Uroboros0313/GraphUtils/blob/master/PyG/codes/1.1.pyG_MsgPass.ipynb)
+> 2022-09-04
+- Add pyG_start
+  - [doc](https://github.com/Uroboros0313/GraphUtils/blob/master/PyG/1.1.pyG_start.md)
+  - [code](https://github.com/Uroboros0313/GraphUtils/blob/master/PyG/codes/1.1.pyG_start.ipynb)
+
+
