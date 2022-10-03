@@ -6,10 +6,10 @@ Learning Project for GNNs
 
 This Project include the installation and usage of 
 
-- Neo4j
 - PyG(torch_geometric)
+- DGL
 - Pytorch tips
-- (some pkgs to add)
+- Neo4j
 
 # History
 > 2022-09-08

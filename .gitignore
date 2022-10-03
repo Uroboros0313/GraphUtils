@@ -1,2 +1,10 @@
-# folders
-/**/datas
+# dataset dir
+
+# dataset file
+*.pt
+*x
+*y
+*graph
+*.txt
+*.csv
+
