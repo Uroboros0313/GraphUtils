@@ -8,6 +8,8 @@ This Project include the installation and usage of DGL
 
 # Milestone
 > 2022.10.05
-- add get_started.md via introducing dgl graph or heterograph and feature construction 
+- add get_started
+  - [doc](./dgl/1.get_started.md)
+  - [code](./dgl/codes/get_started.ipynb)
 
 
